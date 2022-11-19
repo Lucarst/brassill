@@ -1,0 +1,165 @@
+#EXTM3U
+#EXTINF:-1,BR : A & E
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58433
+#EXTINF:-1,BR : AMC
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58434
+#EXTINF:-1,BR : ANIMAL PLANET
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58435
+#EXTINF:-1,BR : AXN
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58436
+#EXTINF:-1,BR : BAND
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58437
+#EXTINF:-1,BR : BAND NEWS
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58438
+#EXTINF:-1,BR : BAND SP
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58439
+#EXTINF:-1,BR : BOOMERANG
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58440
+#EXTINF:-1,BR : CARTOON NETWORK
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58441
+#EXTINF:-1,BR : CINEMAX
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58442
+#EXTINF:-1,BR : COMBATE
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58443
+#EXTINF:-1,BR : COMEDY CENTRAL
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58444
+#EXTINF:-1,BR : DISCOVERY CHANNEL
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58445
+#EXTINF:-1,BR : DISCOVERY CIVILIZATION
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58447
+#EXTINF:-1,BR : DISCOVERY HOME & HEALTH
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58449
+#EXTINF:-1,BR : DISCOVERY KIDS
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58450
+#EXTINF:-1,BR : DISCOVERY THEATER
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58451
+#EXTINF:-1,BR : DISCOVERY TURBO
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58452
+#EXTINF:-1,BR : DISCOVERY WORLD
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58453
+#EXTINF:-1,BR : DISNEY CHANNEL
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58454
+#EXTINF:-1,BR : DISNEY JR
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58455
+#EXTINF:-1,BR : DISNEY XD
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58456
+#EXTINF:-1,BR : ESPN
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58458
+#EXTINF:-1,BR : ESPN 2
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58459
+#EXTINF:-1,BR : ESPN BRASIL
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58460
+#EXTINF:-1,BR : FOOD NETWORK
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58461
+#EXTINF:-1,BR : FOX
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58462
+#EXTINF:-1,BR : FOX LIFE
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58463
+#EXTINF:-1,BR : FOX SPORTS 1
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58465
+#EXTINF:-1,BR : FOX SPORTS 2
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58466
+#EXTINF:-1,BR : GLOBO BRASILIA
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58467
+#EXTINF:-1,BR : GLOBO NEWS
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58468
+#EXTINF:-1,BR : GLOBOSAT
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58469
+#EXTINF:-1,BR : GLOOB
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58470
+#EXTINF:-1,BR : GNT
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58471
+#EXTINF:-1,BR : H2
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58472
+#EXTINF:-1,BR : HBO
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58473
+#EXTINF:-1,BR : HBO 2
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58474
+#EXTINF:-1,BR : HBO FAMILY
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58475
+#EXTINF:-1,BR : HBO PLUS
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58476
+#EXTINF:-1,BR : HBO SIGNATURE
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58477
+#EXTINF:-1,BR : HISTORY CHANNEL
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58478
+#EXTINF:-1,BR : INVESTIGACAO DISCOVERY
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58480
+#EXTINF:-1,BR : LIFETIME
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58481
+#EXTINF:-1,BR : MEGAPIX
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58485
+#EXTINF:-1,BR : MTV
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58486
+#EXTINF:-1,BR : MULTISHOW
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58487
+#EXTINF:-1,BR : NAT GEO
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58488
+#EXTINF:-1,BR : NAT GEO KIDS
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58489
+#EXTINF:-1,BR : NAT GEO WILD
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58490
+#EXTINF:-1,BR : NICK JR
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58492
+#EXTINF:-1,BR : NICKELODEON
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58493
+#EXTINF:-1,BR : OFF
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58494
+#EXTINF:-1,BR : PARAMOUNT CHANNEL
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58495
+#EXTINF:-1,BR : PREMIERE 2
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58496
+#EXTINF:-1,BR : PREMIERE 3
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58497
+#EXTINF:-1,BR : PREMIERE 4
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58498
+#EXTINF:-1,BR : PREMIERE 5
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58499
+#EXTINF:-1,BR : PREMIERE CLUBES
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58500
+#EXTINF:-1,BR : RECORD
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58501
+#EXTINF:-1,BR : RECORD SP
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58502
+#EXTINF:-1,BR : REDE NEW
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58503
+#EXTINF:-1,BR : REDE TV
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58504
+#EXTINF:-1,BR : SONY
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58505
+#EXTINF:-1,BR : SPACE
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58506
+#EXTINF:-1,BR : SPORTV 1
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58508
+#EXTINF:-1,BR : SPORTV 2
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58509
+#EXTINF:-1,BR : SPORTV 3
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58510
+#EXTINF:-1,BR : STUDIO UNIVERSAL
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58511
+#EXTINF:-1,BR : SYFY
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58512
+#EXTINF:-1,BR : TELECINE ACTION
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58513
+#EXTINF:-1,BR : TELECINE CULT
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58515
+#EXTINF:-1,BR : TELECINE FUN
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58516
+#EXTINF:-1,BR : TELECINE PIPOCA
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58518
+#EXTINF:-1,BR : TELECINE PREMIUM
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58519
+#EXTINF:-1,BR : TELECINE TOUCH
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58521
+#EXTINF:-1,BR : TNT
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58522
+#EXTINF:-1,BR : TNT SERIES
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58523
+#EXTINF:-1,BR : UNIVERSAL CHANNEL
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58524
+#EXTINF:-1,BR : VIVA
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58525
+#EXTINF:-1,BR : WARNER CHANNEL
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58526
+#EXTINF:-1,BR : WOOHOO
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/58527
